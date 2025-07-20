@@ -2,7 +2,7 @@
 KiCad project:  STM32 PCB Design on STM32F103C8T6
 
 # About
-This repository contains the KiCad 9.0 schematic for a custom-designed STM32-based development board. The board is built around the **STM32F103C8T6** microcontroller and provides core functionalities such as USB power, external clocking, GPIO headers, voltage regulation, and indicator LEDs—ideal for prototyping, embedded systems development.
+This repository contains the KiCad 9.0 schematic for a custom-designed STM32-based development board. The board is built around the **STM32F103C8T6** microcontroller and provides core functionalities such as USB power, external clocking, GPIO headers, voltage regulation, and indicator LEDs ideal for prototyping, embedded systems development.
 
 It includes: 
 
