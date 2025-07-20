@@ -5,6 +5,7 @@ KiCad project:  STM32 PCB Design on STM32F103C8T6
 This repository contains the KiCad 9.0 schematic for a custom-designed STM32-based development board. The board is built around the **STM32F103C8T6** microcontroller and provides core functionalities such as USB power, external clocking, GPIO headers, voltage regulation, and indicator LEDs—ideal for prototyping, embedded systems development.
 
 It includes: 
+
 STM32F103C8T6:  ARM Cortex-M3 microcontroller (Blue Pill)     
 USB_B_Micro: USB Micro-B connector for programming/power    
 AMS1117-3.3: Voltage regulator (3.3V output)                
