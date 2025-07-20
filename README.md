@@ -35,7 +35,7 @@ It includes:
 
   Clock Circuit:
 
-- Onboard **Crystal_GND24** oscillator provides accurate timing
+- Onboard Crystal oscillator provides accurate timing
 - Crystal is connected to STM32’s OSC_IN/OSC_OUT with matching capacitors
 
   I/O and Connectivity:
