@@ -6,16 +6,16 @@ This repository contains the KiCad 9.0 schematic for a custom-designed STM32-bas
 
 It includes: 
 
-STM32F103C8T6:  ARM Cortex-M3 microcontroller (Blue Pill)     
-USB_B_Micro: USB Micro-B connector for programming/power    
-AMS1117-3.3: Voltage regulator (3.3V output)                
-Crystal: External crystal oscillator with GND pads     
-FB: FerriteBead: Noise filter on power rail
-LED: Status or debug indicator
-Resistor: For LED and pull-up/down functions
-Capacitor: Decoupling and oscillator loading
-Conn_01x04_Pin: 4-pin GPIO header                            
-MountingHoles: Mechanical support for enclosure/PCB mount   
+- STM32F103C8T6:  ARM Cortex-M3 microcontroller (Blue Pill)     
+- USB_B_Micro: USB Micro-B connector for programming/power    
+- AMS1117-3.3: Voltage regulator (3.3V output)                
+- Crystal: External crystal oscillator with GND pads     
+- FB: FerriteBead: Noise filter on power rail
+- LED: Status or debug indicator
+- Resistor: For LED and pull-up/down functions
+- Capacitor: Decoupling and oscillator loading
+- Conn_01x04_Pin: 4-pin GPIO header                            
+- MountingHoles: Mechanical support for enclosure/PCB mount   
 
 ## 📂 Project structure
 - `My_STM32_Board.kicad_sch` – Schematic file
